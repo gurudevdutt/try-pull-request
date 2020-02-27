@@ -13,4 +13,5 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-print("hello world again from connor")
+print("hello world from gd trying to use terminal for PR")
+print("hello PR GD")
